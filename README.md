@@ -1,1 +1,1 @@
-# JS-Day1---Todo-App
+# JS-Day2---Todo-App
